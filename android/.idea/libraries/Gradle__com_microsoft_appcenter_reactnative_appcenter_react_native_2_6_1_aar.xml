@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.appcenter.reactnative:appcenter-react-native:2.6.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/132d636171b5d8e7be77335d42fd1258/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/132d636171b5d8e7be77335d42fd1258/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.appcenter.reactnative/appcenter-react-native/2.6.1/35d7134a53dbf43d30e534314cf86732cc83c397/appcenter-react-native-2.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

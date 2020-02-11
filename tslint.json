@@ -1,0 +1,92 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+      "quotemark": [true, "single", "avoid-escape"],
+        "noImplicitAny": false,
+        "ordered-imports": false,
+        "object-literal-sort-keys": false,
+        // @TODO: Change to true
+        "no-empty-interface": false,
+        "no-submodule-imports": false,
+        "member-ordering": false,
+        "interface-name": [true, "never-prefix"],
+        // @TODO: Change to true
+        "jsx-no-lambda": false,
+        "member-access": false,
+        "await-promise": true,
+        "deprecation": true,
+        "no-arg": true,
+        "no-conditional-assignment": true,
+        "no-duplicate-imports": true,
+        "no-duplicate-variable": true,
+        "no-empty": true,
+        "no-reference-import": true,
+        "no-return-await": true,
+        "no-switch-case-fall-through": true,
+        "no-unused-expression": [true, "allow-fast-null-checks", "allow-tagged-template"],
+        "no-object-literal-type-assertion": [true, "allow-arguments"],
+        "no-eval": true,
+        "no-var-keyword": true,
+        "no-trailing-whitespace": true,
+        "label-position": true,
+        "radix": true,
+        "space-within-parens": [true, 0],
+        "trailing-comma": [
+          true,
+          {
+            "multiline": {
+              "objects": "always",
+              "arrays": "always",
+              "functions": "never",
+              "typeLiterals": "ignore",
+              "imports": "never"
+            },
+            "singleline": "never",
+            "esSpecCompliant": true
+          }
+        ],
+        "comment-format": [true, "check-space"],
+        "jsdoc-format": true,
+        "new-parens": true,
+        "class-name": true,
+        "no-angle-bracket-type-assertion": true,
+        "no-consecutive-blank-lines": true,
+        "no-floating-promises": true,
+        "no-misused-new": true,
+        "no-string-throw": true,
+        "no-unnecessary-qualifier": true,
+        "no-unnecessary-type-assertion": true,
+        "curly": [true, "ignore-same-line"],
+        "triple-equals": [true, "allow-null-check"],
+        "use-isnan": true,
+        "one-line": [true, "check-catch", "check-finally", "check-else", "check-open-brace", "check-whitespace"],
+        "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore", "allow-pascal-case"],
+        "whitespace": [
+          true,
+          "check-branch",
+          "check-decl",
+          "check-operator",
+          "check-rest-spread",
+          "check-type",
+          "check-typecast",
+          "check-type-operator",
+          "check-preblock"
+        ],
+        "one-variable-per-declaration": true,
+        "eofline": true,
+        // @TODO: Remove this at some point
+        "no-implicit-dependencies": [
+          true,
+          ["components", "assets", "general", "auth", "store", "layouts", "types", "hocs", "utils", "routes", "service"]
+        ]    
+    },
+    "rulesDirectory": [],
+    "linterOptions": {
+        "exclude": ["internals/scripts", "flow-typed", "**/*.js", "**/*.jsx", "node_modules", "babel.config.js", "metro.config.js", "jest.config.js"]
+      }
+    
+}

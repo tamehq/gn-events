@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkData":{"type":"MAIN","splits":[],"versionCode":18,"versionName":"0.0.18","enabled":true,"outputFile":"app-release.apk","fullName":"release","baseName":"release"},"path":"resources-release.ap_","properties":{"packageId":"events.tame.attendeeApp","split":"","minSdkVersion":"16"}}]

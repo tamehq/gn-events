@@ -1,0 +1,4 @@
+#Thu Jan 30 18:04:49 PKT 2020
+base.0=/Users/themacstore/Documents/Projects/event-app/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
