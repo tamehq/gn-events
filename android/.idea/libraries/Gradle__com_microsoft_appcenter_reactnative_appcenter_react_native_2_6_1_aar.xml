@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.microsoft.appcenter.reactnative:appcenter-react-native:2.6.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/132d636171b5d8e7be77335d42fd1258/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/132d636171b5d8e7be77335d42fd1258/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/638fda5d7d6c0633be74146ba8c68117/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/638fda5d7d6c0633be74146ba8c68117/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
