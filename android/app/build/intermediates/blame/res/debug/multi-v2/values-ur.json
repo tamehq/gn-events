@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/themacstore/Documents/Projects/event-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
+            "outputFile": "/Users/apple/Documents/Tame/deloitte-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
             "map": [
                 {
-                    "source": "/Users/themacstore/.gradle/caches/transforms-2/files-2.1/f37edd7a550bb142ccf0e3190e81b3b5/res/values-ur/values-ur.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "48",
-                        "startColumns": "4",
-                        "startOffsets": "5645",
-                        "endColumns": "100",
-                        "endOffsets": "5741"
-                    }
-                },
-                {
-                    "source": "/Users/themacstore/.gradle/caches/transforms-2/files-2.1/a180a46f3ba595c2f2bd3997fbf75ddc/res/values-ur/values-ur.xml",
+                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/f5a9a338e5c42cf9ba3fdd371ea51a90/res/values-ur/values-ur.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/themacstore/.gradle/caches/transforms-2/files-2.1/c81c2841a60d917099b369f3425c5b60/res/values-ur/values.xml",
+                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/b2c34e92f4ab7d0ab1ba89ca7d23ac9b/res/values-ur/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -55,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/themacstore/.gradle/caches/transforms-2/files-2.1/daef33eef549b66b34e29f3115f65165/res/values-ur/values.xml",
+                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/b93792498afdd12bc34a7c20c92c8417/res/values-ur/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -69,6 +52,23 @@
                         "startOffsets": "3982",
                         "endColumns": "210",
                         "endOffsets": "4188"
+                    }
+                },
+                {
+                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/f6f7afee1424619e08c7c973b151ca4d/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "48",
+                        "startColumns": "4",
+                        "startOffsets": "5645",
+                        "endColumns": "100",
+                        "endOffsets": "5741"
                     }
                 }
             ]
