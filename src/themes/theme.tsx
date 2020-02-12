@@ -40,6 +40,14 @@ const theme = {
         regularFont: 'OpenSans-Regular',
         extraBoldFont: 'OpenSans-ExtraBold'
     },
+    icons: {
+      small: 12,
+      normal: 15,
+      medium: 17,
+      standard: 20,
+      large: 22,
+      xl: 24
+    },
     WP: widthPercentageToDP,
     HP: heightPercentageToDP
 };
