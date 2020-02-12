@@ -62,6 +62,7 @@
 		B782B84D472948C38F9627A4 /* icomoon.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 620E5F3D402F4D989BCCB843 /* icomoon.ttf */; };
 		B7D93FF0EE5C406BA45A43BB /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1E755B6CB4B842659B1D1EBD /* Octicons.ttf */; };
 		B90AAF43DCAA44CD9B9B8707 /* OpenSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EFAFE163AE3640B384AB0E15 /* OpenSans-BoldItalic.ttf */; };
+		C13FC6AE23F3CB2E0085D4F3 /* appLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = C13FC6AD23F3CB2E0085D4F3 /* appLogo.png */; };
 		C1A47B4923CFB35900461175 /* AppCenter-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = C1A47B4823CFB35900461175 /* AppCenter-Config.plist */; };
 		C5DD1A02E04D4208BA6E524F /* Lato-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C24133ADD8A34EF6BC57A427 /* Lato-Light.ttf */; };
 		C7B3E4D1855E4F4B8437978F /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8B930231A2674F91AAE524D5 /* MaterialIcons.ttf */; };
@@ -105,7 +106,7 @@
 		0CEA42632C514C0FA37B2F77 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		0D6D9DB7EC6A01C6660A607F /* Pods-EventApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EventApp.release.xcconfig"; path = "Target Support Files/Pods-EventApp/Pods-EventApp.release.xcconfig"; sourceTree = "<group>"; };
 		0F22D2DEF329434E983724C3 /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-Regular.ttf"; path = "../src/assets/fonts/OpenSans-Regular.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* Deloitte Agenda.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Deloitte Agenda.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07F961A680F5B00A75B9A /* Digital Agenda.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Digital Agenda.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = EventApp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = EventApp/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -170,6 +171,7 @@
 		BDCA3894BD2242FEBB30D31A /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
 		BDF88B3A978448E894DBDC4F /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
 		BF36264BDC1C488DAA3D58C8 /* OpenSans-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/OpenSans-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		C13FC6AD23F3CB2E0085D4F3 /* appLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appLogo.png; path = EventApp/appLogo.png; sourceTree = "<group>"; };
 		C1A47B4823CFB35900461175 /* AppCenter-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "AppCenter-Config.plist"; path = "EventApp/AppCenter-Config.plist"; sourceTree = "<group>"; };
 		C24133ADD8A34EF6BC57A427 /* Lato-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Lato-Light.ttf"; path = "../src/assets/fonts/Lato-Light.ttf"; sourceTree = "<group>"; };
 		CD80C3B59E7D4D9994BB8CA1 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
@@ -248,6 +250,7 @@
 		13B07FAE1A68108700A75B9A /* EventApp */ = {
 			isa = PBXGroup;
 			children = (
+				C13FC6AD23F3CB2E0085D4F3 /* appLogo.png */,
 				C1A47B4823CFB35900461175 /* AppCenter-Config.plist */,
 				182404BC235F2631005C6AF6 /* fonts */,
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -394,7 +397,7 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* Deloitte Agenda.app */,
+				13B07F961A680F5B00A75B9A /* Digital Agenda.app */,
 				00E356EE1AD99517003FC87E /* EventAppTests.xctest */,
 				2D02E47B1E0B4A5D006451C7 /* EventApp-tvOS.app */,
 				2D02E4901E0B4A5D006451C7 /* EventApp-tvOSTests.xctest */,
@@ -442,7 +445,7 @@
 			);
 			name = EventApp;
 			productName = EventApp;
-			productReference = 13B07F961A680F5B00A75B9A /* Deloitte Agenda.app */;
+			productReference = 13B07F961A680F5B00A75B9A /* Digital Agenda.app */;
 			productType = "com.apple.product-type.application";
 		};
 		2D02E47A1E0B4A5D006451C7 /* EventApp-tvOS */ = {
@@ -587,6 +590,7 @@
 				3863F833DC2A421F8493C17A /* FontAwesome5_Brands.ttf in Resources */,
 				4225481901484088A32198CC /* FontAwesome5_Regular.ttf in Resources */,
 				C1A47B4923CFB35900461175 /* AppCenter-Config.plist in Resources */,
+				C13FC6AE23F3CB2E0085D4F3 /* appLogo.png in Resources */,
 				82051E4704D041428F6005E3 /* FontAwesome5_Solid.ttf in Resources */,
 				1DA52B812C634843960B33BA /* Fontisto.ttf in Resources */,
 				965FEC3A279D4FF89249625B /* Foundation.ttf in Resources */,
@@ -966,7 +970,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = events.tame.deloitte;
-				PRODUCT_NAME = "Deloitte Agenda";
+				PRODUCT_NAME = "Digital Agenda";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -992,7 +996,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = events.tame.deloitte;
-				PRODUCT_NAME = "Deloitte Agenda";
+				PRODUCT_NAME = "Digital Agenda";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";

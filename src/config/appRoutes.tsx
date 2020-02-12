@@ -6,8 +6,8 @@ import Chat from "../../event-common-code/screens/chat";
 import LiveFeed from "../../event-common-code/screens/liveFeed";
 import Profile from "../../event-common-code/screens/profile/";
 
-const AppTitle = 'Deloitte Agenda'
-const AppWelcomeText = 'Welcome to\nDeloitte Agenda'
+const AppTitle = 'Digital Agenda'
+const AppWelcomeText = 'Welcome to\nDigital Agenda'
 const TabRoutes = {
   Home,
   Speakers,
