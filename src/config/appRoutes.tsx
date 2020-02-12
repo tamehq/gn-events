@@ -6,7 +6,8 @@ import Chat from "../../event-common-code/screens/chat";
 import LiveFeed from "../../event-common-code/screens/liveFeed";
 import Profile from "../../event-common-code/screens/profile/";
 
-
+const AppTitle = 'Deloitte Agenda'
+const AppWelcomeText = 'Welcome to\nDeloitte Agenda'
 const TabRoutes = {
   Home,
   Speakers,
@@ -30,4 +31,4 @@ const DrawerRoutes = [
   { name: 'Chat', icon: 'chat', screen: 'Chat' },
 ]
 
-export {TabRoutes, DrawerRoutes}
+export {TabRoutes, DrawerRoutes, AppTitle, AppWelcomeText}

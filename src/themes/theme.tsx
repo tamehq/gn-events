@@ -35,9 +35,10 @@ const theme = {
         latoBold: 'Lato-Bold',
         latoRegular: 'Lato-Regular',
         latoLight: 'Lato-Light',
-        boldFont: 'Montserrat-Bold',
-        regularFont: 'Montserrat-Regular',
-        extraBoldFont: 'Montserrat-ExtraBold'
+        boldFont: 'OpenSans-Bold',
+        lightFont: 'OpenSans-Light',
+        regularFont: 'OpenSans-Regular',
+        extraBoldFont: 'OpenSans-ExtraBold'
     },
     WP: widthPercentageToDP,
     HP: heightPercentageToDP
