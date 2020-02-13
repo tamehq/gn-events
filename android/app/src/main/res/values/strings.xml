@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NNIT Event App</string>
+    <string name="app_name">Digital Agenda</string>
     <string moduleConfig="true" name="CodePushDeploymentKey">bzmJMh8bCV5b7WAHjLy40jmTgpWaNjUiVOiRL</string>
     <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
     <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
