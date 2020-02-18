@@ -1025,6 +1025,7 @@ id state_scale
 id status_bar_latest_event_content
 id submenuarrow
 id submit_area
+id surface_view
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -1041,6 +1042,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id text_view_rotate
 id text_view_scale
+id texture_view
 id time
 id title
 id titleDividerNoCustom
@@ -1145,6 +1147,8 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+layout surface_view
+layout texture_view
 layout ucrop_activity_photobox
 layout ucrop_aspect_ratio
 layout ucrop_controls

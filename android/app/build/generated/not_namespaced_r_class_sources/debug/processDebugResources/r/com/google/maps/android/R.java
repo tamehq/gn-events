@@ -90,10 +90,10 @@ public final class R {
         public static final int normal = 0x7f070098;
         public static final int satellite = 0x7f0700b1;
         public static final int standard = 0x7f0700cd;
-        public static final int terrain = 0x7f0700de;
-        public static final int webview = 0x7f0700fc;
-        public static final int wide = 0x7f0700fd;
-        public static final int window = 0x7f0700fe;
+        public static final int terrain = 0x7f0700df;
+        public static final int webview = 0x7f0700fe;
+        public static final int wide = 0x7f0700ff;
+        public static final int window = 0x7f070100;
     }
     public static final class integer {
         private integer() {}

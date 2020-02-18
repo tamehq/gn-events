@@ -771,33 +771,33 @@ public final class R {
         public static final int state_scale = 0x7f0700d1;
         public static final int submenuarrow = 0x7f0700d3;
         public static final int submit_area = 0x7f0700d4;
-        public static final int tabMode = 0x7f0700d5;
-        public static final int tag_transition_group = 0x7f0700db;
-        public static final int text = 0x7f0700df;
-        public static final int text2 = 0x7f0700e0;
-        public static final int textSpacerNoButtons = 0x7f0700e1;
-        public static final int textSpacerNoTitle = 0x7f0700e2;
-        public static final int text_view_rotate = 0x7f0700e3;
-        public static final int text_view_scale = 0x7f0700e4;
-        public static final int time = 0x7f0700e5;
-        public static final int title = 0x7f0700e6;
-        public static final int titleDividerNoCustom = 0x7f0700e7;
-        public static final int title_template = 0x7f0700e8;
-        public static final int toolbar = 0x7f0700e9;
-        public static final int toolbar_title = 0x7f0700ea;
-        public static final int top = 0x7f0700eb;
-        public static final int topPanel = 0x7f0700ec;
-        public static final int ucrop = 0x7f0700f2;
-        public static final int ucrop_frame = 0x7f0700f3;
-        public static final int ucrop_photobox = 0x7f0700f4;
-        public static final int uniform = 0x7f0700f6;
-        public static final int up = 0x7f0700f7;
-        public static final int view_overlay = 0x7f0700f9;
-        public static final int wrap_content = 0x7f070100;
-        public static final int wrapper_controls = 0x7f070101;
-        public static final int wrapper_reset_rotate = 0x7f070102;
-        public static final int wrapper_rotate_by_angle = 0x7f070103;
-        public static final int wrapper_states = 0x7f070104;
+        public static final int tabMode = 0x7f0700d6;
+        public static final int tag_transition_group = 0x7f0700dc;
+        public static final int text = 0x7f0700e0;
+        public static final int text2 = 0x7f0700e1;
+        public static final int textSpacerNoButtons = 0x7f0700e2;
+        public static final int textSpacerNoTitle = 0x7f0700e3;
+        public static final int text_view_rotate = 0x7f0700e4;
+        public static final int text_view_scale = 0x7f0700e5;
+        public static final int time = 0x7f0700e7;
+        public static final int title = 0x7f0700e8;
+        public static final int titleDividerNoCustom = 0x7f0700e9;
+        public static final int title_template = 0x7f0700ea;
+        public static final int toolbar = 0x7f0700eb;
+        public static final int toolbar_title = 0x7f0700ec;
+        public static final int top = 0x7f0700ed;
+        public static final int topPanel = 0x7f0700ee;
+        public static final int ucrop = 0x7f0700f4;
+        public static final int ucrop_frame = 0x7f0700f5;
+        public static final int ucrop_photobox = 0x7f0700f6;
+        public static final int uniform = 0x7f0700f8;
+        public static final int up = 0x7f0700f9;
+        public static final int view_overlay = 0x7f0700fb;
+        public static final int wrap_content = 0x7f070102;
+        public static final int wrapper_controls = 0x7f070103;
+        public static final int wrapper_reset_rotate = 0x7f070104;
+        public static final int wrapper_rotate_by_angle = 0x7f070105;
+        public static final int wrapper_states = 0x7f070106;
     }
     public static final class integer {
         private integer() {}
@@ -849,13 +849,13 @@ public final class R {
         public static final int select_dialog_multichoice_material = 0x7f0a0035;
         public static final int select_dialog_singlechoice_material = 0x7f0a0036;
         public static final int support_simple_spinner_dropdown_item = 0x7f0a0037;
-        public static final int ucrop_activity_photobox = 0x7f0a0038;
-        public static final int ucrop_aspect_ratio = 0x7f0a0039;
-        public static final int ucrop_controls = 0x7f0a003a;
-        public static final int ucrop_fragment_photobox = 0x7f0a003b;
-        public static final int ucrop_layout_rotate_wheel = 0x7f0a003c;
-        public static final int ucrop_layout_scale_wheel = 0x7f0a003d;
-        public static final int ucrop_view = 0x7f0a003e;
+        public static final int ucrop_activity_photobox = 0x7f0a003a;
+        public static final int ucrop_aspect_ratio = 0x7f0a003b;
+        public static final int ucrop_controls = 0x7f0a003c;
+        public static final int ucrop_fragment_photobox = 0x7f0a003d;
+        public static final int ucrop_layout_rotate_wheel = 0x7f0a003e;
+        public static final int ucrop_layout_scale_wheel = 0x7f0a003f;
+        public static final int ucrop_view = 0x7f0a0040;
     }
     public static final class menu {
         private menu() {}

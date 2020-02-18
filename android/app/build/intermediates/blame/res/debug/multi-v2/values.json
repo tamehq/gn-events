@@ -147,9 +147,11 @@
                 {
                     "source": "/Users/apple/Documents/Tame/deloitte-app/android/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1"
+                        "startLines": "2,-1,-1,1",
+                        "startColumns": "4,-1,-1,4",
+                        "startOffsets": "68,-1,-1,16",
+                        "endColumns": "107,-1,-1,51",
+                        "endOffsets": "171,-1,-1,63"
                     },
                     "to": {
                         "startLines": "331,360,361,362",
