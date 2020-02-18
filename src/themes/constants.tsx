@@ -8,8 +8,8 @@ export const TEST_EVENT = [
         time: '09:00',
         banner: Banner,
         logo: Logo,
-        heading: 'Welcome to the new Digital Agenda event app.',
-        description: `A One Deloitte tool for all our events in Digital Agenda.
+        heading: 'Welcome to the new GN Hearing event app.',
+        description: `A One GN Hearing tool for all our events in GN.
 
 With this app, you will get fast and easy access to your personal program. In here, you will find all details such as QR codes for entry and other practical information you need to have a fantastic event.
 

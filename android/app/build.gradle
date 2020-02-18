@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "events.tame.deloitte"
+        applicationId "events.tame.gn"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 18

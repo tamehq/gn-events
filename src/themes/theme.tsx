@@ -4,7 +4,7 @@ const theme = {
     color: {
         secondary: '',
         black: '#000000',
-        primary: '#000000',
+        primary: '#EA7200',
         charcoal: '#333333',
         feedIcon: '#a5abb9',
         screenBg: '#F7F7F7',
@@ -16,7 +16,7 @@ const theme = {
         separator: '#969696',
         cardGray: '#8B8B8B',
         background: '#ffffff',
-        onBoardingBg: '#000000',
+        onBoardingBg: '#D4732B',
         tabIconBg: 'rgb(19, 42, 65)',
         borderLine: 'rgba(151, 151, 151, 0.35)',
         shadow: 'rgba(0, 0, 0, 0.5)',
@@ -35,10 +35,10 @@ const theme = {
         latoBold: 'Lato-Bold',
         latoRegular: 'Lato-Regular',
         latoLight: 'Lato-Light',
-        boldFont: 'OpenSans-Bold',
-        lightFont: 'OpenSans-Light',
-        regularFont: 'OpenSans-Regular',
-        extraBoldFont: 'OpenSans-ExtraBold'
+        boldFont: 'GNElliot-Bold',
+        lightFont: 'GNElliot-Light',
+        regularFont: 'GNElliot',
+        extraBoldFont: 'GNElliot-Bold'
     },
     icons: {
       small: 12,
