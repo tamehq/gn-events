@@ -1,6 +1,7 @@
 import Banner from "../assets/images/newsAndUpdate/bulb.png";
 import Logo from "../assets/images/appLogo.png";
 
+export const GET_SPLASH_ANIMATION = (fadeAnim) => [];
 export const TEST_EVENT = [
     {
         image: Banner,

@@ -16,7 +16,7 @@ const theme = {
         separator: '#969696',
         cardGray: '#8B8B8B',
         background: '#ffffff',
-        onBoardingBg: '#D4732B',
+        onBoardingBg: 'rgba(0, 0, 0, 0.04)',
         tabIconBg: 'rgb(19, 42, 65)',
         borderLine: 'rgba(151, 151, 151, 0.35)',
         shadow: 'rgba(0, 0, 0, 0.5)',

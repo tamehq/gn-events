@@ -8,7 +8,7 @@ import Attendees from "../../event-common-code/screens/attendees/";
 import Profile from "../../event-common-code/screens/profile/";
 
 const AppTitle = 'GN Hearing'
-const AppWelcomeText = 'Welcome to GN\nHearing Kickoff'
+const AppWelcomeText = 'Welcome to\nGN Events'
 const TabRoutes = {
   Home,
   Speakers,
