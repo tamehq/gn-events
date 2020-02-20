@@ -1,6 +1,7 @@
 import Banner from "../assets/images/newsAndUpdate/bulb.png";
 import Logo from "../assets/images/appLogo.png";
 
+export const TEST_EVENT_IDS = ['119541617']
 export const GET_SPLASH_ANIMATION = (fadeAnim) => [];
 export const TEST_EVENT = [
     {
