@@ -30,7 +30,7 @@ const DrawerRoutes = [
   // { name: 'Live Feed', icon: 'livefeed', screen: 'LiveFeed' },
   // { name: 'Polling', icon: 'polling', screen: 'Polling' },
   { name: 'Attendees', icon: 'attendees', screen: 'Attendees' },
-  { name: 'Chat', icon: 'chat', screen: 'Chat' },
+  // { name: 'Chat', icon: 'chat', screen: 'Chat' },
 ]
 
 export {TabRoutes, DrawerRoutes, AppTitle, AppWelcomeText}

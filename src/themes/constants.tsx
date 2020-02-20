@@ -5,8 +5,8 @@ export const GET_SPLASH_ANIMATION = (fadeAnim) => [];
 export const TEST_EVENT = [
     {
         image: Banner,
-        date: 'MAR 11 2020',
-        time: '09:00',
+        date: 'Tuesday, 17 March 2020',
+        time: '08:30',
         banner: Banner,
         logo: Logo,
         heading: 'Welcome to the new GN Hearing event app.',
