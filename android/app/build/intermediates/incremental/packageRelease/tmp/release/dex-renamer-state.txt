@@ -1,4 +1,0 @@
-#Fri Jan 31 18:35:58 PKT 2020
-base.0=/Users/themacstore/Documents/Projects/event-app/android/app/build/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex
