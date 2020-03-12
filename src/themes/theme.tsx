@@ -29,6 +29,7 @@ const theme = {
     success: '#00d86d',
     failure: '#e05658',
     underline: 'rgb(217, 217, 217)',
+    meetingGrey: '#a6a6a6',
   },
   fontSizes: {
     xSmall: '13',
