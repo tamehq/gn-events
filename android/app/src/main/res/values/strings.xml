@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Digital Agenda</string>
+    <string name="app_name">GN Events</string>
     <string moduleConfig="true" name="CodePushDeploymentKey">EiSoxectiWjIKVPxCZ-DvOUMclBDp-x2DLTLe</string>
     <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
     <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
