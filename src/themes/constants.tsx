@@ -2,6 +2,7 @@ import Banner from '../assets/images/newsAndUpdate/bulb.png';
 import Logo from '../assets/images/appLogo.png';
 
 export const TEST_EVENT_IDS = ['119541617', '27998856', '127559061'];
+export const SPLASH_STYLE = {resizeMode: 'stretch'}
 export const GET_SPLASH_ANIMATION = fadeAnim => [];
 export const TEST_EVENT = [
   {
@@ -23,3 +24,5 @@ Stay tuned for new updates.
 Global Event Mgt.`,
   },
 ];
+
+export const PROGRAME_FILTER = 'name'
