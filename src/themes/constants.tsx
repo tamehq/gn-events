@@ -25,4 +25,4 @@ Global Event Mgt.`,
   },
 ];
 
-export const PROGRAME_FILTER = 'name'
+export const PROGRAME_FILTER = 'date'
