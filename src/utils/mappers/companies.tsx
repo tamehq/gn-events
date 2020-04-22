@@ -36,7 +36,5 @@ const schema: any = {
 const schemaMapper = mappet(schema);
 /* eslint-disable */
 export const companyMapper = data => {
-  console.log(schemaMapper(data), data);
-  console.log('dataaa', data.category ? data.category : '');
   return schemaMapper(data);
 };

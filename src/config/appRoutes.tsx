@@ -3,7 +3,7 @@ import Speakers from '../../event-common-code/screens/speakers/';
 import Programme from '../../event-common-code/screens/programme/';
 import Attendees from '../../event-common-code/screens/attendees/';
 // import Polling from "../../event-common-code/screens/polling/";
-// import Chat from "../../event-common-code/screens/chat";
+import Chat from "../../event-common-code/screens/chat/";
 // import LiveFeed from "../../event-common-code/screens/liveFeed";
 import Profile from '../../event-common-code/screens/profile/';
 import Meeting from '../../event-common-code/screens/meetingBooking/';
@@ -16,7 +16,7 @@ const TabRoutes = {
   Programme,
   Attendees,
   // LiveFeed,
-  // Chat,
+  Chat,
   // Polling,
   Meeting,
   Profile,
