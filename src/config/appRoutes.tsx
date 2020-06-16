@@ -3,8 +3,8 @@ import Speakers from '../../event-common-code/screens/speakers/';
 import Programme from '../../event-common-code/screens/programme/';
 import Attendees from '../../event-common-code/screens/attendees/';
 // import Polling from "../../event-common-code/screens/polling/";
-import Chat from "../../event-common-code/screens/chat/";
-// import LiveFeed from "../../event-common-code/screens/liveFeed";
+import Chat from '../../event-common-code/screens/chat/';
+import LiveFeed from '../../event-common-code/screens/liveFeed';
 import Profile from '../../event-common-code/screens/profile/';
 import Meeting from '../../event-common-code/screens/meetingBooking/';
 
@@ -15,8 +15,8 @@ const TabRoutes = {
   Speakers,
   Programme,
   Attendees,
-  // LiveFeed,
-  Chat,
+  LiveFeed,
+  // Chat,
   // Polling,
   Meeting,
   Profile,
@@ -29,9 +29,9 @@ const DrawerRoutes = [
   {name: 'Exhibitors', icon: 'exhibitors', screen: 'Exhibitors'},
   // { name: 'Venue', icon: 'venue' },
   // { name: 'News & Updates', icon: 'newsupdates' },
-  // { name: 'Live Feed', icon: 'livefeed', screen: 'LiveFeed' },
+  {name: 'Live Feed', icon: 'livefeed', screen: 'LiveFeed'},
   {name: 'Attendees', icon: 'attendees', screen: 'Attendees'},
-  {name: 'Chat', icon: 'chat', screen: 'Chat'},
+  // {name: 'Chat', icon: 'chat', screen: 'Chat'},
   {name: 'Meeting Booking', icon: 'meeting', screen: 'Meeting'},
 ];
 

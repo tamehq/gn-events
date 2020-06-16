@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* EventAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* EventAppTests.m */; };
 		041F31047BDA52710F6AE880 /* libPods-EventApp-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BDC360DA7ED69D3195DE0320 /* libPods-EventApp-tvOSTests.a */; };
