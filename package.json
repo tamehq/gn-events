@@ -28,7 +28,7 @@
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
     "mappet": "^4.3.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "native-base": "^2.13.8",
     "polished": "^3.4.2",
     "quill-delta-to-html": "^0.11.0",
